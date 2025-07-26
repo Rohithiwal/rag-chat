@@ -54,43 +54,13 @@ flowchart TD
     Q6 --> Q7[Answer Shown]
 ```
 
-
-
-
-
-
-
-
-
----
-
-## 📂 Folder Structure
-
-```
-.
-├── api_utils.py
-├── chroma_utils.py
-├── db_utils.py
-├── langchain_utils.py
-├── main.py                  # FastAPI entry point
-├── streamlit_app.py         # Streamlit frontend
-├── chat_interface.py
-├── sidebar.py
-├── pydantic_models.py
-├── rag_app.db               # SQLite database
-├── chroma_db/               # Persisted vector store
-└── README.md
-```
-
----
-
 ##  Installation
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/langchain-rag-chatbot.git
-cd langchain-rag-chatbot
+git clone https://github.com/Rohithiwal/rag-chat
+cd rag-chat
 ```
 
 ### 2. Create a Virtual Environment
