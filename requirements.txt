@@ -1,0 +1,39 @@
+# Core Backend Framework
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# LangChain Core & Extensions
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+
+# Embeddings
+tiktoken
+openai
+
+# Document Loaders
+pypdf
+docx2txt
+unstructured
+html2text
+beautifulsoup4
+
+# Vector DB
+chromadb
+
+# Utilities
+python-dotenv
+requests
+python-multipart
+pydantic
+typing-extensions
+
+# Optional: for HTML parsing in UnstructuredHTMLLoader
+lxml
+
+# If you are using SQLite directly
